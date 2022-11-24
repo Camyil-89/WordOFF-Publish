@@ -29,5 +29,9 @@
 			<dowload path="2.2.0.0/update.zip"/>
 			<dowload path="info/info.zip"/>
 		</item>
+		<item version="2.3.0.0">
+			<dowload path="2.3.0.0/update.zip"/>
+			<dowload path="info/info.zip"/>
+		</item>
 	</versions>
 </WordOFF>
