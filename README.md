@@ -14,6 +14,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 https://github.com/Camyil-89/WordOFF-Publish/releases
 
+# Zip архив
 Zip архив с версией приложения 2.2.0.0, если это не самая новая версия, приложение предложит вам обновиться.
 
 [2.2.0.0.zip](https://github.com/Camyil-89/WordOFF-Publish/files/10087173/2.2.0.0.zip)
