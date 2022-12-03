@@ -25,7 +25,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 ## Быстрое заполнение отчета - позволяет сделать скриншот и сразу заполнить его.
 
-![image](https://user-images.githubusercontent.com/76705837/205448020-b3e7b648-2394-4941-aec9-442fe2edf58a.png)
+![image](https://user-images.githubusercontent.com/76705837/205448384-1aa371e3-2b02-4cac-a664-809efdd96c79.png)
 
 ## Объединение отчетов - позволяет быстро объединять несколько отчетов.
 
