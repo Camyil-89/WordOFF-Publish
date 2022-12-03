@@ -9,6 +9,17 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 Выбираете x64 если у вас 64 разрядная система и x86 для 32 разрядной системы.
 ![image](https://user-images.githubusercontent.com/76705837/203860326-cecb8f0e-9a26-415b-a408-69a7588b92ce.png)
 
+# WordOFF
+![image](https://user-images.githubusercontent.com/76705837/205447981-efeb61fa-7a3e-4ae3-800b-77c98a2961ef.png)
+
+## Быстрое заполнение отчета - позволяет сделать скриншот и сразу заполнить его.
+
+![image](https://user-images.githubusercontent.com/76705837/205448020-b3e7b648-2394-4941-aec9-442fe2edf58a.png)
+
+## Объединение отчетов - позволяет быстро объединять несколько отчетов.
+
+![image](https://user-images.githubusercontent.com/76705837/205448186-2ab22063-ffff-4836-9646-3ad4cfd84f0e.png)
+
 
 # Скачать
 
