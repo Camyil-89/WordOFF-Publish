@@ -30,3 +30,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 ## Объединение отчетов - позволяет быстро объединять несколько отчетов.
 
 ![image](https://user-images.githubusercontent.com/76705837/205448186-2ab22063-ffff-4836-9646-3ad4cfd84f0e.png)
+
+## .WOFF файл - позволяет быстро создавать файл отчета в любом удобном месте
+
+![image](https://user-images.githubusercontent.com/76705837/205448545-0732c738-28bd-44c8-aaf9-1d9e044b9603.png)
