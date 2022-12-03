@@ -19,6 +19,11 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 ![image](https://user-images.githubusercontent.com/76705837/203860326-cecb8f0e-9a26-415b-a408-69a7588b92ce.png)
 
 # WordOFF
+
+## Сортировка по группам и поиск по названию отчета.
+
+![image](https://user-images.githubusercontent.com/76705837/205448749-bf97f26b-b525-4603-a543-b88eebf047d2.png)
+
 ## Отчет - рабочая область, в нем создается вся структура отчета.
 
 ![image](https://user-images.githubusercontent.com/76705837/205447981-efeb61fa-7a3e-4ae3-800b-77c98a2961ef.png)
