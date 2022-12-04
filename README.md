@@ -2,12 +2,11 @@
 
 # Скачать
 
-https://github.com/Camyil-89/WordOFF-Publish/releases
+[installer.zip](https://github.com/Camyil-89/WordOFF-Publish/files/10148671/installer.zip)
 
-# Zip архив
-Zip архив с версией приложения 3.0.0.0, если это не самая новая версия, приложение предложит вам обновиться.
+устанавливаете установщик в папку с будующим WordOFF и запускаете его, после выбираете последнию версию и нажимаете обновить, после окончания установки открываете файл WordOFF.exe и пользуетесь!.
 
-[3.0.0.0.zip](https://github.com/Camyil-89/WordOFF-Publish/files/10114120/3.0.0.0.zip)
+![image](https://user-images.githubusercontent.com/76705837/205494783-25a9c3fd-9f77-44d2-9f49-169a2fd20b91.png)
 
 # Проблемы с запуском
 
