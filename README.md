@@ -27,7 +27,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 ![image](https://user-images.githubusercontent.com/76705837/205447981-efeb61fa-7a3e-4ae3-800b-77c98a2961ef.png)
 
-## Быстрое заполнение отчета - позволяет сделать скриншот и сразу заполнить его.
+## Быстрое заполнение отчета - позволяет сделать скриншот с помощью горячих клавиш и сразу заполнить его.
 
 ![image](https://user-images.githubusercontent.com/76705837/205448384-1aa371e3-2b02-4cac-a664-809efdd96c79.png)
 
