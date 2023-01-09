@@ -1,5 +1,5 @@
 # WordOFF - приложение направленное на облегчение создания отчетов.
-# WordOFF не поддерживает (x86) 32 разрядную систему!
+
 # Скачать
 
 [installer.zip](https://github.com/Camyil-89/WordOFF-Publish/files/10148671/installer.zip)
@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/76705837/205494783-25a9c3fd-9f77-44d2-9f49-169a2fd20b91.png)
 
 # Проблемы с запуском
-
+## WordOFF не поддерживает (x86) 32 разрядную систему!
 Если не запускается приложение, необходимо скачать dotnet sdk 6.0
 
 https://dotnet.microsoft.com/en-us/download/dotnet/6.0
