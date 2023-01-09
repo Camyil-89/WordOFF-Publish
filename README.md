@@ -1,5 +1,5 @@
 # WordOFF - приложение направленное на облегчение создания отчетов.
-# WordOFF не поддерживает 32 разрядную систему (Windows)!
+# WordOFF не поддерживает (x86) 32 разрядную систему!
 # Скачать
 
 [installer.zip](https://github.com/Camyil-89/WordOFF-Publish/files/10148671/installer.zip)
