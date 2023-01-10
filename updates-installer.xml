@@ -1,10 +1,13 @@
 <WordOFF-Installer>
- 	<last_version version="1.1.0.0"/>
+ 	<last_version version="1.2.0.0"/>
 	<versions>
 		<item version="1.0.0.0">
 			<dowload path="1.0.0.0/installer.zip"/>
 		</item>
 		<item version="1.1.0.0">
+			<dowload path="1.1.0.0/installer.zip"/>
+		</item>
+		<item version="1.2.0.0">
 			<dowload path="1.1.0.0/installer.zip"/>
 		</item>
 	</versions>
