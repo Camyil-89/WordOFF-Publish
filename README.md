@@ -2,9 +2,9 @@
 
 # Скачать
 
-[installer.zip](https://github.com/Camyil-89/WordOFF-Publish/files/10148671/installer.zip)
+[setup.zip](https://github.com/Camyil-89/WordOFF-Publish/files/10387007/setup.zip)
 
-устанавливаете установщик в папку с будующим WordOFF и запускаете его, после выбираете последнию версию и нажимаете обновить, после окончания установки открываете файл WordOFF.exe и пользуетесь!
+устанавливаете установщик и запускаете файл setup.exe, после установки на рабочем столе появится ярлык, в случаи если не появился, найдите приложение в папке которую вы установыли его и запустите WordOFF.exe, если версия не последняя он сам предложит обновится.
 
 ![image](https://user-images.githubusercontent.com/76705837/205494783-25a9c3fd-9f77-44d2-9f49-169a2fd20b91.png)
 
@@ -35,6 +35,10 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 ## Объединение отчетов - позволяет быстро объединять несколько отчетов.
 
 ![image](https://user-images.githubusercontent.com/76705837/205448186-2ab22063-ffff-4836-9646-3ad4cfd84f0e.png)
+
+## Редактор изображений - позволяет изменить добавленые в отчет изображения
+
+![image](https://user-images.githubusercontent.com/76705837/211667424-0aa80e01-fe45-4109-9386-763ca01c48b9.png)
 
 ## .WOFF файл - позволяет быстро создавать файл отчета в любом удобном месте
 
