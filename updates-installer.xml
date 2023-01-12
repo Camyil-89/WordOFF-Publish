@@ -8,7 +8,7 @@
 			<dowload path="1.1.0.0/installer.zip"/>
 		</item>
 		<item version="1.2.0.0">
-			<dowload path="1.1.0.0/installer.zip"/>
+			<dowload path="1.2.0.0/installer.zip"/>
 		</item>
 	</versions>
 </WordOFF-Installer>
