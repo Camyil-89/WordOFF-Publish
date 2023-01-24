@@ -59,7 +59,7 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 
 ![image](https://user-images.githubusercontent.com/76705837/205448545-0732c738-28bd-44c8-aaf9-1d9e044b9603.png)
 
-## Быстрое создание .Pdf файлов из .docx файлов
+## Быстрое создание .pdf файлов из .docx файлов
 
 ![image](https://user-images.githubusercontent.com/76705837/214366708-81f0e927-be3e-40f5-a6c7-4823ceb8dcd0.png)
 
