@@ -33,6 +33,9 @@ https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 ![image](https://user-images.githubusercontent.com/76705837/203860326-cecb8f0e-9a26-415b-a408-69a7588b92ce.png)
 
 # WordOFF
+## WordOFF ChatGPT
+
+![image](https://user-images.githubusercontent.com/76705837/226261416-8c328b1f-212b-4d5a-97e0-ec2849bc5235.png)
 
 ## Сортировка по группам и поиск по названию отчета.
 
