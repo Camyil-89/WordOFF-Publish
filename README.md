@@ -1,6 +1,7 @@
 # WordOFF - приложение направленное на облегчение создания отчетов.
 
 # Скачать
+[LauncherOFF](https://github.com/Camyil-89/LauncherOFF-Publish/tree/main) - Для скачивания WordOFF можно использовать LauncherOFF. Он за вас скачает все необходимые зависимости и файлы.
 
 [setup.zip](https://github.com/Camyil-89/WordOFF-Publish/files/10387007/setup.zip)
 
