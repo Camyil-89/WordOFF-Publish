@@ -160,5 +160,10 @@
 			<dowload path="3.2.0.0/runtimes.zip"/>
 			<dowload path="info/info.zip"/>
 		</item>
+		<item version="4.13.0.0">
+			<dowload path="4.13.0.0/update.zip"/>
+			<dowload path="3.2.0.0/runtimes.zip"/>
+			<dowload path="info/info.zip"/>
+		</item>
 	</versions>
 </WordOFF>
